@@ -1,4 +1,4 @@
-This repo is now archived! If you find any bugs, please open an issue in [withfig/fig](https://github.com/withfig/fig/issue/new)
+This repo is now archived! If you find any bugs, please open an issue in [withfig/fig](https://github.com/withfig/fig/issues/new/choose)
 ---
 
 # Config Directory (~/.fig/)
